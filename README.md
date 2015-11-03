@@ -1,2 +1,0 @@
-# Image-Denoising
-#include <iostream>
